@@ -12,3 +12,5 @@
 
 # Setup
 
+1. Run the script `./setup.sh`, which installs all of the packages necessary to run SpotCheck to a conda environment named `spotcheck`.
+2. See our [demo notebook](https://github.com/njohnson99/spotcheck/blob/main/demo.ipynb), which shows how to use the `data_utils.SyntheticEC` class to randomly sample the semantic features and blindspots for a single experimental configuration.
