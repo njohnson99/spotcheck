@@ -1,8 +1,8 @@
 # SpotCheck
 
-![Images from an example experimental configuration generated using SpotCheck](spotcheck-example.png)
+**SpotCheck** is an open-source framework to evaluate blindspot discovery methods ("BDMs").  
 
-SpotCheck is an open-source framework to evaluate blindspot discovery methods ("BDMs").  
+![Images from an example experimental configuration generated using SpotCheck](spotcheck-example.png)
 
 * In summary, SpotCheck works by generating "experimental configurations": synthetic image datasets & models with *known* true blindspots.
 * In this repository, we release the code we used in our experiments to generate several experimental configurations with different datasets and true blindspot definitions.
